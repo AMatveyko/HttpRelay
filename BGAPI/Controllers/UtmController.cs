@@ -1,9 +1,7 @@
-using BGAPI.Entities;
 using BGAPI.Handlers;
 using BGAPI.Helpers;
 using BGAPI.Workers;
 using Microsoft.AspNetCore.Mvc;
-using NLog;
 
 namespace BGAPI.Controllers
 {

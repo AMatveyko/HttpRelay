@@ -1,7 +1,6 @@
 using System.IO;
 using System.Net;
 using BGAPI.Entities;
-using BGAPI.Helpers;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BGAPI.Handlers
